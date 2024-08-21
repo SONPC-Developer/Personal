@@ -1,2 +1,2 @@
 # Personal
-shopping-personal
+Shopping Personal
